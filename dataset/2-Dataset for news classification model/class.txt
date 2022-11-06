@@ -1,0 +1,2 @@
+0 非交通事故新闻（non-traffic accident news）
+1 交通事故新闻(traffic accident news)
