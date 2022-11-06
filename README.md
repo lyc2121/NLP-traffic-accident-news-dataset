@@ -1,0 +1,3 @@
+# NLP_traffic_accident_news_dataset
+This is a traffic accident news dataset
+These are traffic accident news datasets. There are 12364 train sets, 1358 test sets, and 1358 dev sets for the traffic accident correlation discriminant dataset. We have labeled each sentence as ‘0’ or ‘1’, which represents traffic accident unrelated or traffic accident related. There are 4976 train sets, 1094 test sets, and 300 dev set for the news discriminant dataset. We labeled each news as ‘0’ or ‘1’, representing non-traffic accident news or traffic accident news. There are 2796 train sets, 300 test sets, and 110 dev sets for the news Key information extraction dataset. We labeled each word by the ‘BIO’ sequence annotation method.
